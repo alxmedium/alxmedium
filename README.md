@@ -9,6 +9,11 @@ AMedium is a clone of Medium.
 
 ## Services
 
+### AMedium Auth
+
+Description:
+Repository: https://github.com/AlexisNava/AMedium-Auth
+
 ## Usage
 
 ### Run all the services
