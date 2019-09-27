@@ -1,4 +1,4 @@
-# AMediumServices
+# AMedium
 
 AMedium is a clone of Medium.
 
