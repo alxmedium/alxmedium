@@ -1,6 +1,6 @@
 # AMediumServices
 
-AMedium project is a microservice-based project.
+AMedium is a clone of Medium.
 
 ## Services
 
