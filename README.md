@@ -11,7 +11,7 @@ AMedium is a clone of Medium.
 
 ### AMedium Auth
 
-Description:
+Description: RESTful Service of Authentication for the AMedium.
 Repository: https://github.com/AlexisNava/AMedium-Auth
 
 ## Usage
