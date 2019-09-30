@@ -1,6 +1,21 @@
 version: "3"
 
 services:
+  auth:
+    image: balexisnava/amedium-auth
+    restart: always
+    ports:
+      - 4000:8080
+    environment:
+      FLASK_APP: auth
+      POSTGRES_USERNAME: amedium
+      POSTGRES_PASSWORD: amedium2019
+      POSTGRES_DATABASE: amediumdb
+      POSTGRES_HOST: postgres
+      POSTGRES_PORT: 5432
+    depends_on:
+      - postgres
+
   postgres:
     image: postgres:10.3
     restart: always
