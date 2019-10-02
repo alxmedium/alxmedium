@@ -9,6 +9,11 @@ AMedium is a clone of Medium.
 
 ## Services
 
+### AMedium App [![CircleCI](https://circleci.com/gh/AlexisNava/AMedium-App/tree/master.svg?style=svg)](https://circleci.com/gh/AlexisNava/AMedium-App/tree/master)
+
+- Description: SPA for the AMedium project.
+- Repository: https://github.com/AlexisNava/AMedium-App
+
 ### AMedium Auth [![CircleCI](https://circleci.com/gh/AlexisNava/AMedium-Auth/tree/master.svg?style=svg)](https://circleci.com/gh/AlexisNava/AMedium-Auth/tree/master)
 
 - Description: RESTful Service of Authentication for the AMedium.
