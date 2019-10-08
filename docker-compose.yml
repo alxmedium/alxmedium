@@ -13,7 +13,7 @@ services:
     image: balexisnava/amedium-auth:17
     restart: always
     ports:
-      - 5000:8000
+      - 5001:8000
     environment:
       FLASK_ENV: production
       FLASK_APP: auth
