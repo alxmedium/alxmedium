@@ -33,7 +33,7 @@ docker-compose up
 
 ```sh
 
-docker-compose -d
+docker-compose -d up
 
 ```
 
