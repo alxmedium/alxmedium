@@ -4,20 +4,20 @@ AMedium is a clone of Medium.
 
 ## Requirements
 
-- [Docker](https://docs.docker.com/install/) >= *v*19.03.2
-- [Docker Compose](https://docs.docker.com/compose/install/) >= *v*1.23.2
+- [Docker](https://docs.docker.com/install/) >= *v*19.03.3
+- [Docker Compose](https://docs.docker.com/compose/install/) >= *v*1.24.1
 
 ## Services
 
 ### AMedium App [![CircleCI](https://circleci.com/gh/AlexisNava/AMedium-App/tree/master.svg?style=svg)](https://circleci.com/gh/AlexisNava/AMedium-App/tree/master)
 
 - Description: SPA for the AMedium project.
-- Repository: https://github.com/AlexisNava/AMedium-App
+- Repository: [AMedium-App](https://github.com/AlexisNava/AMedium-App)
 
 ### AMedium Auth [![CircleCI](https://circleci.com/gh/AlexisNava/AMedium-Auth/tree/master.svg?style=svg)](https://circleci.com/gh/AlexisNava/AMedium-Auth/tree/master)
 
-- Description: RESTful Service of Authentication for the AMedium.
-- Repository: https://github.com/AlexisNava/AMedium-Auth
+- Description: RESTful services of the Authentication module for the AMedium project.
+- Repository: [AMedium-Auth](https://github.com/AlexisNava/AMedium-Auth)
 
 ## Usage
 
