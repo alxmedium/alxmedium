@@ -59,6 +59,13 @@ docker-compose down --volumes
 
 ```
 
+## Contributing
+
+Please check the the [CONTRIBUTING](./CONTRIBUTING.md) file before to:
+
+- Open an issue to _Report a Bug_ or _Request a new feature_.
+- Make a new _Pull Request_.
+
 ## License
 
-**AMediumServices** is licensed under [Apache License, Version 2.0](https://github.com/AlexisNava/AMediumServices/blob/master/LICENSE).
+**AMediumServices** is licensed under [Apache License, Version 2.0](./LICENSE).
