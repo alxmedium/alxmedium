@@ -11,5 +11,6 @@ The following are the rules to start contributing to the amedium project.
 - Use the [ZenHub](https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd?utm_source=chrome-ntp-icon) extension to see the _Pipeline_ of the project.
 - Only open new _Issues_ following the current templates.
 - Only open new _Pull Requests_ following the current templates.
+- Only create branches with the following sufixes: `feature/` and `fix/`.
 
 **Important: All the issues that don't follow the rules will be closed**
