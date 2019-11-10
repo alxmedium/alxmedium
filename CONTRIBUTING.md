@@ -1,12 +1,12 @@
 # Contributing
 
-In this file, I will present to you the rules and ways to start to contribute to the **amedium** project.
+In this file, I will present to you the rules and ways to start to contribute to the **alxmedium** project.
 
 ## Rules
 
-The following are the rules to start contributing to the amedium project.
+The following are the rules to start contributing to the alxmedium project.
 
-- Only open new _Issues_ in the [amedium](https://github.com/AlexisNava/amedium) repository.
+- Only open new _Issues_ in the [alxmedium](https://github.com/alxmedium/alxmedium) repository.
 - Always follow the **Installation** steps of the projects and make sure that you have all the listed **Requirements** installed.
 - Use the [ZenHub](https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd?utm_source=chrome-ntp-icon) extension to see the _Pipeline_ of the project.
 - Only open new _Issues_ following the current templates.

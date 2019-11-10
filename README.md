@@ -1,6 +1,6 @@
-# AMedium
+# alxmedium
 
-AMedium is a clone of Medium.
+alxmedium is a clone of Medium.
 
 ## Requirements
 
@@ -13,15 +13,15 @@ AMedium is a clone of Medium.
 
 <summary>See the services list</summary>
 
-### AMedium App [![CircleCI](https://circleci.com/gh/AlexisNava/AMedium-App/tree/master.svg?style=svg)](https://circleci.com/gh/AlexisNava/AMedium-App/tree/master)
+### webapp [![CircleCI](https://circleci.com/gh/AlexisNava/AMedium-App/tree/master.svg?style=svg)](https://circleci.com/gh/AlexisNava/AMedium-App/tree/master)
 
-- Description: SPA for the AMedium project.
-- Repository: [AMedium-App](https://github.com/AlexisNava/AMedium-App)
+- Description: SPA for the alxmedium project.
+- Repository: [webapp](https://github.com/alxmedium/webapp)
 
-### AMedium Auth [![CircleCI](https://circleci.com/gh/AlexisNava/AMedium-Auth/tree/master.svg?style=svg)](https://circleci.com/gh/AlexisNava/AMedium-Auth/tree/master)
+### auth [![CircleCI](https://circleci.com/gh/AlexisNava/AMedium-Auth/tree/master.svg?style=svg)](https://circleci.com/gh/AlexisNava/AMedium-Auth/tree/master)
 
-- Description: RESTful services of the Authentication module for the AMedium project.
-- Repository: [AMedium-Auth](https://github.com/AlexisNava/AMedium-Auth)
+- Description: RESTful services of the Authentication module for the alxmedium project.
+- Repository: [auth](https://github.com/alxmedium/auth)
 
 </details>
 
@@ -68,4 +68,4 @@ Please check the the [CONTRIBUTING](./CONTRIBUTING.md) file before to:
 
 ## License
 
-**AMediumServices** is licensed under [Apache License, Version 2.0](./LICENSE).
+**alxmedium** is licensed under [Apache License, Version 2.0](./LICENSE).
