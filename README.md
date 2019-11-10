@@ -61,7 +61,7 @@ docker-compose down --volumes
 
 ## Contributing
 
-Please check the the [CONTRIBUTING](./CONTRIBUTING.md) file before to:
+Please check the the [CONTRIBUTING](./CONTRIBUTING.md) guide before to:
 
 - Open an issue to _Report a Bug_ or _Request a New Feature_.
 - Make a new _Pull Request_.
