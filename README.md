@@ -1,63 +1,20 @@
 # alxmedium
 
-alxmedium is a clone of Medium.
+alexmedium is a clone of Medium with the only purpose to practice and learn.
 
-## Requirements
+## Infrastructure
 
-- [Docker](https://docs.docker.com/install/) >= *v*19.03.3
-- [Docker Compose](https://docs.docker.com/compose/install/) >= *v*1.24.1
+### infrastructure [![infrastructure](https://circleci.com/gh/alxmedium/infrastructure.svg?style=svg)](https://circleci.com/gh/alxmedium/infrastructure)
+
+- Description: Infrastructure as Code of the alxmedium project.
+- Repository: [infrastructure](https://github.com/alxmedium/infrastructure)
 
 ## Services
 
-<details>
+### auth-service [![alxmedium](https://circleci.com/gh/alxmedium/auth-service.svg?style=svg)](https://circleci.com/gh/alxmedium/auth-service)
 
-<summary>See the services list</summary>
-
-### webapp [![CircleCI](https://circleci.com/gh/AlexisNava/AMedium-App/tree/master.svg?style=svg)](https://circleci.com/gh/AlexisNava/AMedium-App/tree/master)
-
-- Description: SPA for the alxmedium project.
-- Repository: [webapp](https://github.com/alxmedium/webapp)
-
-### auth [![CircleCI](https://circleci.com/gh/AlexisNava/AMedium-Auth/tree/master.svg?style=svg)](https://circleci.com/gh/AlexisNava/AMedium-Auth/tree/master)
-
-- Description: RESTful services of the Authentication module for the alxmedium project.
-- Repository: [auth](https://github.com/alxmedium/auth)
-
-</details>
-
-## Usage
-
-### Run all the services
-
-```sh
-
-docker-compose up
-
-```
-
-### Run all the services in detach mode
-
-```sh
-
-docker-compose -d up
-
-```
-
-### Stop all the services
-
-```sh
-
-docker-compose stop
-
-```
-
-### Remove the data in all the volumes
-
-```sh
-
-docker-compose down --volumes
-
-```
+- Description: auth-service is the authentication implementation of the alxmedium project.
+- Repository: [auth-service](https://github.com/alxmedium/auth-service)
 
 ## Contributing
 
